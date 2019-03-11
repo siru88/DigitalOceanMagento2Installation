@@ -1,4 +1,4 @@
-# WordpressDigitalOceanScript
+# Magento2DigitalOceanScript
 
 To install Magento2 in DigitalOcean's CentOS 7 server. Download the data present in https://raw.githubusercontent.com/siru88/DigitalOceanMagento2Installation/master/Magento2Installation.sh
 chmod +x Magento2Installation.sh
